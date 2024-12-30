@@ -1,0 +1,215 @@
+.form-control:hover{
+    border: 2px solid black;
+}
+.btn1:hover{
+    opacity: 60%;
+}
+.txtt1:hover{
+    color: black;
+}
+.btn2:hover{
+    transform: scale(1.01);
+}
+.nimany-icon{
+    width: 30%;
+    height: 50%;
+}
+.navtext{
+    text-decoration: none;
+    width: 15%;
+}
+.navtext1{
+    text-decoration: none;
+}
+.navtext:hover{
+    text-decoration: underline;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;  
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.icon1{
+    width: 15px;
+    height: 15px;
+}
+.magnify:hover{
+    transform: scale(1.05);  
+}
+.profile:hover{
+    transform: scale(1.05);  
+}
+.bag:hover{
+    transform: scale(1.05);
+}
+.footer1{
+    background-color: rgb(235, 235, 235);
+}
+.foot1{
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(73, 69, 69);
+}
+.foot1:hover{
+    color: black;
+    text-decoration: underline ;
+}
+.form-control:hover{
+    border: 3px solid black;
+}
+.subfoot{
+    font-size: 13px;
+    text-decoration: none;
+    color: rgb(73, 69, 69);
+    margin-bottom: 5%;
+}
+.subfoot:hover{
+   color: black;
+   text-decoration: underline;
+}
+.navbl{
+    margin: 0 -100px;
+}
+.navbl{
+    margin: 0 -100px;
+}
+.express{
+    width: 70px;
+    height: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.facebookbtns:hover{
+    transform: scale(1.05);
+}
+.form-control{
+    width: 170%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn2:hover{
+    transform: scale(1.02);
+}
+.share:hover{
+    text-decoration: underline;
+}
+.share{
+    color: black;
+    text-decoration: none;
+}
+.hov7{
+    display: block;
+}
+.hov8{
+    display: none;
+}
+.hov2sec:hover .hov7{
+    display: none;
+}
+
+.hov2sec:hover .hov8{
+    display: block;
+}
+.sec4img1{
+    text-decoration: none;
+}
+.sec4img1:hover{
+    text-decoration: underline;
+}
+.btn3:hover{
+    transform: scale(1.02);
+}
+.icon-rtl {
+    background: url("../images/icons8-magnifying-glass-30.png") no-repeat right;
+    background-size: 30px;
+    padding-right: 30px;
+}
+.btn-close{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 4.4rem;
+    right: 15rem;
+    background-color:transparent;
+}
+.ho{
+    width: 100vw;
+    display: none;
+    position: absolute;
+    z-index: 3;
+    top: 232%;
+    left: -511%;
+}
+.ho1{
+    width: 100vw;
+    display: none;
+    position: absolute;
+    z-index: 3;
+    top: 232%;
+    left: -836%;
+}
+.ho2{
+    width: 100vw;
+    display: none;
+    position: absolute;
+    z-index: 3;
+    top: 232%;
+    left: -1436%;
+}
+
+.hoverw:hover .ho{
+    display: block;
+}
+.hoverw:hover .ho1{
+    display: block;
+}
+.hoverw:hover .ho2{
+    display: block;
+}
+li{
+    list-style-type: none;
+}
+.items{
+    color: rgb(104, 104, 104);
+    text-decoration: none;
+    font-size: 16px;
+}
+.items:hover{
+    color: black;
+}
+.main-item{
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    text-decoration: none;
+    text-underline-offset: 5px;
+}
+.hovnav:hover{
+    text-decoration: underline 2px solid black;
+}
+.btn-close{
+    position: absolute; 
+    top:3%;
+    left:95%;
+}
+.btn-close:hover{
+    transform:rotate(180deg);
+}
+.message{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 3;
+}
+.accessibility{
+    position: fixed;
+    bottom: 10px;
+    left: 20px;
+    z-index: 3;
+}
